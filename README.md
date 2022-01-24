@@ -1,6 +1,6 @@
 # MySQL-for-Data-Analytics-and-Business-Intelligence
 Final tasks of the course spezialization in SQL called: "SQL - MySQL for Data Analytics and Business Intelligence".
-The Database is employees.csv
+The Database is employees.sql
 
 This repository has inside 4 folders, each of them has inside:
 
